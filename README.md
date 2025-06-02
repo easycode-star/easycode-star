@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Easycode star</h1>
 
 <h3 align="center">Senior 🤓 full stack developer </h3>
-
+I'm a full-stack software engineer with over 12 years of experience building scalable web and mobile applications. I specialize in **JavaScript**, **TypeScript**, **React**, **Node.js**, and **Angular**, and I enjoy turning complex problems into simple, elegant solutions.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -25,5 +25,3 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
 
-
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=rahuldkjain /> </p>
