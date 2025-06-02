@@ -2,7 +2,7 @@
 
 <h3 align="center">Senior 🤓 full stack developer </h3>
 
-I'm a senior full-stack software engineer with over 12 years of experience building web and mobile applications that are clean, fast, and scalable. I specialize in modern JavaScript frameworks like **React**, **Angular**, and **Node.js**, and I enjoy solving backend challenges just as much as crafting smooth front-end experiences.
+I'm a senior full-stack software engineer with over 12 years of experience building web and mobile applications that are clean, fast, and scalable. I specialize in modern JavaScript frameworks like **React**, **Vue**, **Angular**, and **Node.js**, and I enjoy solving backend challenges just as much as crafting smooth front-end experiences.
 
 🧠 I believe in writing thoughtful, maintainable code and always leaving things better than I found them.  
 💡 My mindset is simple: stay curious, keep learning, and collaborate with empathy. I enjoy helping others grow while constantly improving myself.  
